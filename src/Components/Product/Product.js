@@ -7,7 +7,7 @@ import {Button} from 'react-bootstrap';
 
 
 const Product = (props) => {
-    console.log(props)
+    
     const{name,img,price,instructor}=props.product;
     return (
         

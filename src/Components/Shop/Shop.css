@@ -10,4 +10,13 @@
 .product-container .cart{
     width: 30%;
     margin-left: 5px;
+    
+}
+.single-product h2{
+    text-align: center;
+    margin-top: 30px ;
+    margin-bottom: 40px ;
+    color: maroon;
+    font-weight: bold;
+    
 }

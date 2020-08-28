@@ -17,6 +17,7 @@ const Shop = () => {
     return (
         <div className="product-container ">
             <div className="single-product">
+                <h2>Our Online Course</h2>
             {
                 products.map(pd =><Product product={pd} handaler={handaler}></Product>)
             }
